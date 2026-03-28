@@ -1,0 +1,25 @@
+{
+    "name": "Alex's Portfolio",
+    "short_name": "Portfolio",
+    "description": "Hi, I'm Alex! This website is my personal CV. It encapsulates my personality and growth so far. I have included a short description, schlolar journey, my skills and projects. Hope that you will enjoy visiting and potentially spark a conversation with a future partner!",
+    "icons": [
+        {
+            "src": "/images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#2882ba",
+    "background_color": "white",
+    "orientation": "natural",
+    "display_override": ["window-controls-overlay"],
+    "display": "standalone"
+}
