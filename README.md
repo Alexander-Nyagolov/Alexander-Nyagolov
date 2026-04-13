@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project in robotics.**
 
-- 👨‍💻 All of my projects are available here, soon at [http://alexandernyagolov.com](http://alexandernyagolov.com)
+- 👨‍💻 All of my projects are available here, also at [http://alexandernyagolov.com](http://alexandernyagolov.com)
 
 - 📫 How to reach me **nyagolovaleksander@gmail.com**
 
