@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-nyagolov&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-nyagolov" /> </p>
 
-- 🔭 I’m currently working on **my personal portfolio.**
+- 🔭 I’m working on **my personal portfolio.**
 
-- 🌱 I’m currently learning **more about industrial robotics and automation.**
+- 🌱 I’m learning **more about industrial robotics and automation.**
 
 - 👯 I’m looking to collaborate on **any project in robotics.**
 
